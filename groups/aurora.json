@@ -88,10 +88,6 @@
     "fastMove": "ROLLOUT",
     "chargedMoves": ["BODY_SLAM", "SHADOW_BALL"]
 }, {
-    "speciesId": "linoone",
-    "fastMove": "SHADOW_CLAW",
-    "chargedMoves": ["SWIFT", "TRAILBLAZE"]
-}, {
     "speciesId": "lurantis",
     "fastMove": "FURY_CUTTER",
     "chargedMoves": ["LEAF_BLADE", "SUPER_POWER"]

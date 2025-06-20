@@ -505,6 +505,11 @@
     "weight": 1
   },
   {
+    "speciesId": "linoone",
+    "chargedMoves": ["SWIFT", "DIG"],
+    "weight": 1
+  },
+  {
     "speciesId": "lokix",
     "fastMove": "SUCKER_PUNCH",
     "chargedMoves": ["X_SCISSOR","TRAILBLAZE"],
